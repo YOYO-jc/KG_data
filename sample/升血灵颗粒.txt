@@ -1,0 +1,454 @@
+{
+    "categories": [
+        {
+            "name": "中心词"
+        },
+        {
+            "name": "关系"
+        },
+        {
+            "name": "用途分类",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "药品类型",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "成份",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "OTC类型",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "分类",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "注意事项",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "适应症",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "规格",
+            "symbol": "circle",
+            "symbolSize": 28
+        }
+    ],
+    "link": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": "用途分类"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": "药品类型"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": "成份"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": ""
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "value": "OTC类型"
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "value": "分类"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 19,
+            "value": "注意事项"
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 23,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 24,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 25,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 26,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 27,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 28,
+            "value": ""
+        },
+        {
+            "source": 19,
+            "target": 29,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 30,
+            "value": "适应症"
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 32,
+            "value": "规格"
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "value": ""
+        }
+    ],
+    "name": "升血灵颗粒",
+    "node": [
+        {
+            "category": 0,
+            "label": "升血灵颗粒",
+            "name": 0,
+            "symbolSize": 50
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 1,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 2,
+            "label": "内科",
+            "name": 2,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 3,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 3,
+            "label": "OTC甲类",
+            "name": 4,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 5,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 4,
+            "label": "绿矾",
+            "name": 6,
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "黄芪",
+            "name": 7,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "蔗糖",
+            "name": 8,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "阿胶胶囊",
+            "name": 9,
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "糊精",
+            "name": 10,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "新阿胶",
+            "name": 11,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "山楂",
+            "name": 12,
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "糖",
+            "name": 13,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "大枣",
+            "name": 14,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 15,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 5,
+            "label": "甲类OTC",
+            "name": 16,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 17,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 6,
+            "label": "益气活血",
+            "name": 18,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 19,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 7,
+            "label": "对本品过敏者禁用，过敏体质者慎用",
+            "name": 20,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "请将本品放在儿童不能接触的地方",
+            "name": 21,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "忌油腻食物",
+            "name": 22,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "本品性状发生改变时禁止使用",
+            "name": 23,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "糖尿病患者慎用",
+            "name": 24,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "儿童必须在成人监护下使用",
+            "name": 25,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "外感或实热内盛者不宜服用",
+            "name": 26,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "本品宜饭前服用，禁用茶水冲服",
+            "name": 27,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "如正在使用其他药品，使用本品前请咨询医师或药师",
+            "name": 28,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 7,
+            "label": "按照用法用量服用，孕妇应在医师指导下服用",
+            "name": 29,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 30,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 8,
+            "label": "贫血",
+            "name": 31,
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 32,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 9,
+            "label": "每袋装10克",
+            "name": 33,
+            "symbol": "rect",
+            "symbolSize": 28
+        }
+    ],
+    "tree_type": "药物"
+}

@@ -1,0 +1,200 @@
+{
+    "categories": [
+        {
+            "name": "中心词"
+        },
+        {
+            "name": "关系"
+        },
+        {
+            "name": "UMLS",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "ICD-10",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "临床症状及体征",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "英文名称",
+            "symbol": "circle",
+            "symbolSize": 28
+        },
+        {
+            "name": "所属科室",
+            "symbol": "circle",
+            "symbolSize": 28
+        }
+    ],
+    "link": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": "UMLS"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": ""
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": "ICD-10"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": ""
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": "临床症状及体征"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": ""
+        },
+        {
+            "source": 7,
+            "target": 9,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": "英文名称"
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": ""
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": "所属科室"
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "value": ""
+        }
+    ],
+    "name": "臭汗恐惧症",
+    "node": [
+        {
+            "category": 0,
+            "label": "臭汗恐惧症",
+            "name": 0,
+            "symbolSize": 50
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 1,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 2,
+            "label": "http://linkedlifedata.com/resource/umls/id/C0477529",
+            "name": 2,
+            "symbolSize": 28
+        },
+        {
+            "category": 2,
+            "label": "http://linkedlifedata.com/resource/umls/id/C0236801",
+            "name": 3,
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 4,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 3,
+            "label": "L98.8",
+            "name": 5,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 3,
+            "label": "F40.2",
+            "name": 6,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 7,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 4,
+            "label": "敏感",
+            "name": 8,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 4,
+            "label": "紧张",
+            "name": 9,
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 10,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 5,
+            "label": "bromidrosiphobia",
+            "name": 11,
+            "symbol": "rect",
+            "symbolSize": 28
+        },
+        {
+            "category": 1,
+            "label": "",
+            "name": 12,
+            "symbol": "diamond",
+            "symbolSize": 10
+        },
+        {
+            "category": 6,
+            "label": "皮肤科",
+            "name": 13,
+            "symbol": "rect",
+            "symbolSize": 28
+        }
+    ],
+    "tree_type": "疾病"
+}
